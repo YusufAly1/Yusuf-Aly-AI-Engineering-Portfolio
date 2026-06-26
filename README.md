@@ -20,17 +20,17 @@
 
 ### 🦴 Bone Age Detection using CNN
 Medical image analysis using deep learning  
-🔗 https://github.com/Al-Mutasim1/bone-age-detection-cnn
+🔗 https://github.com/YusufAly1/bone-age-detection-cnn
 
 ### 😷 Face Mask Detection using CNN
 Real-time mask detection system  
-🔗 https://github.com/Al-Mutasim1/face-mask-detection-cnn
+🔗 https://github.com/YusufAly1/face-mask-detection-cnn
 
 ### 🧍 Human Detection using CNN
 Human detection using computer vision  
-🔗 https://github.com/Al-Mutasim1/human-detection-cnn
+🔗 https://github.com/YusufAly1/human-detection-cnn
 
 ---
 
 ## 📫 Contact
-LinkedIn: https://www.linkedin.com/in/elmoatasem-aly-8aba79323/
+LinkedIn: www.linkedin.com/in/yusuf-aly-main401
